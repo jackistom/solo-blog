@@ -10,6 +10,9 @@ Mercury ---github(jackistom)
 
 ### 最新
 
+* [数据结构_1](https://www.jeffjiang.top/articles/2019/12/07/1575725928106.html)
+* [操作系统_3](https://www.jeffjiang.top/articles/2019/12/07/1575720141507.html)
+* [操作系统_2](https://www.jeffjiang.top/articles/2019/12/07/1575711126432.html)
 * [操作系统_1](https://www.jeffjiang.top/articles/2019/12/06/1575604240406.html)
 * [(史上最好用!!!!!!!!!!!!!!!!!!!!!!!!!!)关于树莓派上python3的opencv的环境搭建](https://www.jeffjiang.top/articles/2019/12/06/1575604218543.html)
 * [在WSL(window subsystem for linux)上搭建go语言环境](https://www.jeffjiang.top/articles/2019/11/27/1574841991080.html)
